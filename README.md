@@ -46,7 +46,7 @@ Burada, C# ve Unity ile geliştirdiğim, okul/topluluk etkinlikleri için hazır
 
 Yeni fikirler, işbirlikleri veya sadece tanışmak için benimle iletişime geçmekten çekinmeyin.
 
-**E-posta:** **E-posta:** [Bana Ulaşın](mailto:oozkanncan@gmail.com?subject=GitHub%20Profiliniz%20Üzerinden%20İletişim&body=Merhaba%20Özkan%2C%0A%0AGithub%20profilinizdeki%20çalışmalarınızı%20inceledim%20ve%20sizinle%20iletişime%20geçmek%20istedim.)
+**E-posta:** [oozkanncan@gmail.com](mailto:oozkanncan@gmail.com?subject=GitHub%20Profiliniz%20Üzerinden%20İletişim&body=Merhaba%20Özkan%2C%0A%0AGithub%20profilinizdeki%20çalışmalarınızı%20inceledim%20ve%20sizinle%20iletişime%20geçmek%20istedim.)
 
 **Instagram:** ([ccan.ozknn](https://www.instagram.com/ccan.ozknn/))
 
