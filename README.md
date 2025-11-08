@@ -47,5 +47,7 @@ Burada, C# ve Unity ile geliştirdiğim, okul/topluluk etkinlikleri için hazır
 Yeni fikirler, işbirlikleri veya sadece tanışmak için benimle iletişime geçmekten çekinmeyin.
 
 **E-posta:** oozkanncan@gmail.com
+
 **Instagram:** ccan.ozknn
+
 **LinkedIn:** ([Depo Bağlantısı](https://www.linkedin.com/in/can-%C3%B6zkan-0a1051396/))
