@@ -1,4 +1,4 @@
-# Merhaba, Ben Özkan! 👋
+# Merhaba, Ben Can Özkan! 👋
 
 [![GitHub Profili](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yurookisama)
 [![E-posta](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oozkanncan@gmail.com)
