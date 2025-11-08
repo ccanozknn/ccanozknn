@@ -23,8 +23,8 @@ Afyon Kocatepe Üniversitesi'nde 1. sınıf öğrencisiyim. Teknolojiye ve özel
 | Kategori | Araç/Dil | Seviye |
 | :--- | :--- | :--- |
 | **Oyun Motoru** | Unity | Öğreniyorum |
-| **Programlama** | C# | Öğreniyorum|
-| **Tasarım** | Adobe Photoshop | Temel Düzey |
+| **Programlama** | C#, Python | Öğreniyorum|
+| **Tasarım** | Adobe Photoshop, Adobe Illustator | Temel Düzey |
 | **Versiyon Kontrol**| Git & GitHub | Temel Düzey |
 
 Yeni teknolojileri, yazılım geliştirme prensiplerini ve oyun tasarımı dinamiklerini sürekli olarak öğrenmeye devam ediyorum.
@@ -37,8 +37,7 @@ Burada, C# ve Unity ile geliştirdiğim, okul/topluluk etkinlikleri için hazır
 
 #### Öne Çıkan Projeler
 
-* **[Proje Adı 1]** - Kısa Açıklaması ([Depo Bağlantısı](https://github.com/yurookisama/))
-* **[Proje Adı 2]** - Kısa Açıklaması ([Depo Bağlantısı](https://github.com/yurookisama/))
+* **Vessapi** - Kısa Açıklaması ([Depo Bağlantısı](https://github.com/yurookisama/vessapi))
 * ...
 * *Tüm projelerime depolardan erişebilirsiniz.*
 
