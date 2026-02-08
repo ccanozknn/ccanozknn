@@ -9,11 +9,6 @@
 
 Afyon Kocatepe Üniversitesi'nde 1. sınıf öğrencisiyim. Teknolojiye ve özellikle oyun geliştirmeye karşı büyük bir tutku duyuyorum. Öğrenme yolculuğumda edindiğim bilgi ve birikimi, yaratıcı projeler geliştirmek için kullanmayı hedefliyorum.
 
-#### Üniversite ve Topluluk Aktiviteleri
-
-* **Eğitim:** Afyon Kocatepe Üniversitesi (1. Sınıf Öğrencisi)
-* **Gönüllü Görev:** Afyon Kocatepe Üniversitesi Oyun Geliştirme Topluluğu'nda **Başkan Yardımcısı** olarak aktif görev almaktayım. Topluluğumuzda oyun geliştirme kültürünü yaymak ve etkinlikler düzenlemek için çalışıyorum.
-
 ---
 
 ### 💻 Becerilerim ve Öğrenme Yolculuğum
@@ -25,7 +20,6 @@ Afyon Kocatepe Üniversitesi'nde 1. sınıf öğrencisiyim. Teknolojiye ve özel
 | GNU/Linux | -----C···· | 5/10 |
 | Unity | --C······· | 2/10 |
 | C# | ------C···· | 6/10 |
-| Python | ----C····· | 4/10 | 
 | Adobe Photoshop | -----C···· | 5/10 |
 | Adobe Illustator | --C······· | 2/10 |
 | Git | -----C···· | 5/10 |
