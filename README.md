@@ -18,7 +18,7 @@ Afyon Kocatepe Üniversitesi'nde 1. sınıf öğrencisiyim. Teknolojiye ve özel
 | Yetenekler | Seviye | Nümerik |
 | :--- | :--- | :--- |
 | GNU/Linux | -----C···· | 5/10 |
-| Unity | --C······· | 2/10 |
+| Unity | -----C···· | 5/10 |
 | C# | ------C···· | 6/10 |
 | Adobe Photoshop | -----C···· | 5/10 |
 | Adobe Illustator | --C······· | 2/10 |
